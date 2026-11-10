@@ -1,0 +1,264 @@
+[
+  {
+    "slug": "men",
+    "name": "Men",
+    "description": "Modern essentials and luxury tailoring crafted with uncompromising precision.",
+    "children": [
+      {
+        "slug": "tops",
+        "name": "Tops",
+        "description": "From heavyweight combed tees to mercerized polo shirts and fine gauge knits.",
+        "children": [
+          {
+            "slug": "plain-tees",
+            "name": "Plain T-Shirts"
+          },
+          {
+            "slug": "hoodies",
+            "name": "Hoodies & Sweatshirts"
+          },
+          {
+            "slug": "deym",
+            "name": "deym"
+          }
+        ]
+      },
+      {
+        "slug": "bags",
+        "name": "Bags",
+        "description": "Architectural leather silhouettes, utilitarian slings, and classic travel totes.",
+        "children": [
+          {
+            "slug": "backpacks",
+            "name": "Backpacks"
+          },
+          {
+            "slug": "crossbody",
+            "name": "Crossbody and Shoulder Bags"
+          },
+          {
+            "slug": "bumbags",
+            "name": "Bumbags"
+          },
+          {
+            "slug": "mini-bags",
+            "name": "Mini Bags"
+          },
+          {
+            "slug": "totes",
+            "name": "Totes"
+          }
+        ]
+      },
+      {
+        "slug": "bottoms",
+        "name": "Bottoms",
+        "description": "Refined trousers, Japanese selvedge denim, and structured chinos.",
+        "children": [
+          {
+            "slug": "chinos",
+            "name": "Chinos"
+          },
+          {
+            "slug": "trousers",
+            "name": "Tailored Trousers"
+          },
+          {
+            "slug": "shorts",
+            "name": "Shorts"
+          },
+          {
+            "slug": "denim",
+            "name": "Denim"
+          },
+          {
+            "slug": "joggers",
+            "name": "Lounge Joggers"
+          }
+        ]
+      },
+      {
+        "slug": "shoes",
+        "name": "Shoes",
+        "description": "Handcrafted leather loafers, minimalist monochrome sneakers, and Chelsea boots.",
+        "children": [
+          {
+            "slug": "sneakers",
+            "name": "Sneakers"
+          },
+          {
+            "slug": "loafers",
+            "name": "Loafers"
+          },
+          {
+            "slug": "boots",
+            "name": "Boots"
+          },
+          {
+            "slug": "sandals",
+            "name": "Sandals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "women",
+    "name": "Women",
+    "description": "Understated elegance, sculpting drapery, and elevated modular staples.",
+    "children": [
+      {
+        "slug": "tops",
+        "name": "Tops",
+        "description": "Fluid silk blouses, fine-rib knitwear, and architectural sculptural shirts.",
+        "children": [
+          {
+            "slug": "blouses",
+            "name": "Blouses"
+          },
+          {
+            "slug": "knits",
+            "name": "Knitwear"
+          },
+          {
+            "slug": "tees",
+            "name": "T-Shirts"
+          },
+          {
+            "slug": "shirts",
+            "name": "Tailored Shirts"
+          },
+          {
+            "slug": "bodysuits",
+            "name": "Bodysuits"
+          }
+        ]
+      },
+      {
+        "slug": "bags",
+        "name": "Bags",
+        "description": "Sculptural leather shoulder bags, spacious structured totes, and evening clutches.",
+        "children": [
+          {
+            "slug": "shoulder-bags",
+            "name": "Shoulder Bags"
+          },
+          {
+            "slug": "totes",
+            "name": "Totes"
+          },
+          {
+            "slug": "crossbody",
+            "name": "Crossbody Bags"
+          },
+          {
+            "slug": "mini-bags",
+            "name": "Mini Bags"
+          },
+          {
+            "slug": "clutches",
+            "name": "Clutches"
+          }
+        ]
+      },
+      {
+        "slug": "bottoms",
+        "name": "Bottoms",
+        "description": "High-waisted tailored trousers, pleated midi skirts, and relaxed denim.",
+        "children": [
+          {
+            "slug": "skirts",
+            "name": "Skirts"
+          },
+          {
+            "slug": "trousers",
+            "name": "Trousers"
+          },
+          {
+            "slug": "denim",
+            "name": "Denim"
+          },
+          {
+            "slug": "shorts",
+            "name": "Shorts"
+          }
+        ]
+      },
+      {
+        "slug": "shoes",
+        "name": "Shoes",
+        "description": "Minimalist leather mules, sculpted slingback heels, and daily flats.",
+        "children": [
+          {
+            "slug": "flats",
+            "name": "Flats"
+          },
+          {
+            "slug": "heels",
+            "name": "Heels"
+          },
+          {
+            "slug": "sneakers",
+            "name": "Sneakers"
+          },
+          {
+            "slug": "boots",
+            "name": "Boots"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "accessories",
+    "name": "Accessories",
+    "description": "Subtle finishing accents crafted in calfskin leather and brushed metals.",
+    "children": [
+      {
+        "slug": "belts",
+        "name": "Belts",
+        "description": "Full-grain calfskin belts with custom minimal buckle hardware.",
+        "children": [
+          {
+            "slug": "leather-belts",
+            "name": "Leather Belts"
+          },
+          {
+            "slug": "reversible",
+            "name": "Reversible Belts"
+          }
+        ]
+      },
+      {
+        "slug": "eyewear",
+        "name": "Eyewear",
+        "description": "Acetate sunglasses engineered with premium UV400 Japanese lenses.",
+        "children": [
+          {
+            "slug": "sunglasses",
+            "name": "Sunglasses"
+          },
+          {
+            "slug": "optical",
+            "name": "Optical Frames"
+          }
+        ]
+      },
+      {
+        "slug": "small-leather-goods",
+        "name": "Small Leather Goods",
+        "description": "Cardholders, compact zip wallets, and passport folios.",
+        "children": [
+          {
+            "slug": "wallets",
+            "name": "Wallets & Cardholders"
+          },
+          {
+            "slug": "key-holders",
+            "name": "Key Holders & Charms"
+          }
+        ]
+      }
+    ]
+  }
+]

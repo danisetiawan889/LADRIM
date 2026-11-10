@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build & cache
+.next/
+out/
+
+# Backend build
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Sensitive files
+.env
+.env*.local
+cookies.txt
+
+# Binaries
+bin/cloudflared
+
+# TypeScript
+*.tsbuildinfo
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
